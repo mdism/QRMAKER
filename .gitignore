@@ -1,0 +1,9 @@
+vnev
+venv
+__pycache__
+./__pycache__
+././__pycache__
+
+.env
+pyvenv.cfg
+config.py
